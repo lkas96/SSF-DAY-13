@@ -54,5 +54,3 @@ Springboot initializer
 3. In project root folder (CMD), execute railway login
 4. Link the project, execute cmd command "railway link"
 5. Deploy the project to railway, execute "railway up"
-
-
