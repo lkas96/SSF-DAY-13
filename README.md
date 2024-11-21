@@ -48,3 +48,11 @@ Springboot initializer
 10. To delete docker image
     docker rmi <image_id>
 
+# Docker Compile and Push to Railway
+1. In railway.app, create a serivice (linked to the project)
+2. Create the environment variable, SERVER_PORT=3000
+3. In project root folder (CMD), execute railway login
+4. Link the project, execute cmd command "railway link"
+5. Deploy the project to railway, execute "railway up"
+
+
