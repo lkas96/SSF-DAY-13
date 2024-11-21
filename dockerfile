@@ -2,7 +2,7 @@
 FROM eclipse-temurin:23-jdk
 
 LABEL MAINTAINER = "lawson@lawson.com"
-LABEL DESCRIPTION = "VTTP Day 14 Lecture - Dockerfile example"
+LABEL DESCRIPTION = "VTTP Day 14 Lecture - Dockerfile example using day 12 lecture example java programme"
 LABEL NAME = "SSF-DAY12-LECTURE"
 
 ARG APP_DIR=/APP
