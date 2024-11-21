@@ -22,7 +22,7 @@ Springboot initializer
     docker system prune
 
 3. Building the docker image
-    docker build -t darryl1975/vttp5-ssf-day13-lecture:v0.0.1 .
+    docker build -t darryl1975/vttp-day13-lecture:v0.0.1 .
 
 4. Check the list of docker images that are created on the local machine
     docker image ls

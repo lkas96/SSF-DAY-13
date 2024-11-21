@@ -66,4 +66,4 @@ ENV SERVER_PORT 3000
 
 EXPOSE ${SERVER_PORT}
 
-ENTRYPOINT SERVER_PORT=${SERVER_PORT} java -jar target/vttp5-ssf-day13-lecture-0.0.1-SNAPSHOT.jar
+ENTRYPOINT SERVER_PORT=${SERVER_PORT} java -jar target/vttp-day13-lecture-0.0.1-SNAPSHOT.jar
